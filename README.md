@@ -7,9 +7,9 @@ Carpeta
 https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD)
+[![Binder lab](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD
+[![Binder notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD)
+
  
  
