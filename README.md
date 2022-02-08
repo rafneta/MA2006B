@@ -7,9 +7,9 @@ Carpeta
 https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD
 
 
-lab [![Binder lab](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD/NotasI.ipynb/lab)
+lab [![Binder lab](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD?urlpath=lab)
 
-[![Binder notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD?filepath=NotasI.ipynb/tree)
+note book [![Binder notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/MA2006B/HEAD?urlpath=tree)
 
  
  
